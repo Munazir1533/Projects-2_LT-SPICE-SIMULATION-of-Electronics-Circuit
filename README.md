@@ -20,6 +20,8 @@ In the simulation, the values of components can be changed. It can save time by 
 prototype of a circuit, by simulation we can check the behaviors of the circuits and then 
 performed on the hardware.
 
+`List of Experiments`
+
 EXPERIMENT 1:- Write a program in LT spice for input and output characteristics of inverting 
 amplifier.
 
